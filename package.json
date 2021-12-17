@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "advent-of-code": "^5.0.0",
+    "async": "^3.2.2",
+    "graph": "^0.2.0",
+    "Graph": "0.0.1",
+    "heap-js": "^2.1.6",
+    "immutable": "^4.0.0",
+    "priority-queue": "^0.1.0",
+    "priority-queue-node": "^1.0.2",
+    "priorityqueue": "^1.0.0"
+  }
+}
